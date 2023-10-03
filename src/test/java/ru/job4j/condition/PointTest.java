@@ -40,7 +40,7 @@ class PointTest {
     }
 
     @Test
-    void whenNegative1Negative1to11then2dot82() {
+    void whenMinus1Munus1to11then2dot82() {
         double expected = 2.82;
         int x1 = -1;
         int y1 = -1;
